@@ -24,4 +24,3 @@
         }
     }
 })();
-//2017.3.28 material admin panel
